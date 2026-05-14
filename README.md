@@ -1,1 +1,1 @@
-The purpose of this application is to help users prepare for interviews, exams, and technical learning goals by turning large goals into **small daily habits**.
+The purpose of this application is to help users prepare for interviews, exams, and technical learning goals by turning large goals into **small daily habits**..
